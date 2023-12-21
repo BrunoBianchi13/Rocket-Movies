@@ -108,12 +108,6 @@ $ npm run dev
 ```
 
 
-## 💻 Projeto
-
-
-- [Acesse o projeto completo](https://foodexplorer-api-3zw2.onrender.com)
-
-
 <p align="center">
 Feito by Bruno Bianchi
 </p>
