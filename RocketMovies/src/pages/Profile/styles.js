@@ -18,7 +18,7 @@ export const Container = styled.div`
 
         background: #FF859B;
         border: none;
-        position: absolute; /* Adicionamos essa linha */
+        position: absolute; 
         top: 220px;
         display: flex;
         font-size: 25px;
