@@ -11,7 +11,7 @@
 <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;
 <br>
 
-
+<p align="center">
 <img alt="" src="./Rm1.png">
 
 ## Sobre
